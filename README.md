@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![lll1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=lll1412&show_icons=true&theme=synthwave&count_private=true)](https://github.com/lll1412)
+[![lll1412's GitHub stats](https://lll1412-github-readme-stats.vercel.app/api?username=lll1412&show_icons=true&theme=synthwave&count_private=true)](https://github.com/lll1412)
 
+<hr/>
+
+[![Top Langs](https://lll1412-github-readme-stats.vercel.app/api/top-langs/?username=lll1412&theme=synthwave)](https://github.com/lll1412)
 <!--
 **lll1412/lll1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
